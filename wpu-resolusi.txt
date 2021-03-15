@@ -1,0 +1,5 @@
+WPU RESOLUSI
+- Belajar Ruby
+- Belajar Rails
+- Belajar HTML
+- Belajar CSS
